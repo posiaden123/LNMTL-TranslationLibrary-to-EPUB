@@ -1,7 +1,8 @@
 # LNMTL-TranslationLibrary-to-EPUB
 A java application using jsoup and selenium to take content modified by the translation library extension and convert it to an epub
 
-#Getting Started
+# Getting Started
+
 The application requires
   - a [new chrome profile to be created](https://support.google.com/a/users/answer/9310144?hl=en)
   - The [Tampermonkey](https://www.tampermonkey.net/) extension
